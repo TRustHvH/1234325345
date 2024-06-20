@@ -1,8 +1,8 @@
 {
-  "name": "TRust Locations",
-  "description": "TRust Locations",
-  "update_timestamp": 1606533611,
-  "locations": {
+    "name": "TRust locations",
+    "description": "Rust locations",
+	"update_timestamp": 1606533611,
+    "locations": {
   "cs_agency": [
     {
       "name": ["Unnamed", "Hall [Far]"],
